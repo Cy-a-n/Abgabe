@@ -1,0 +1,32 @@
+body {
+    background-color: #1e1e1e;
+    color: #ccc;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.indent {
+    margin-left: 40px;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.text {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img {
+    margin-bottom: 40px;
+}
+
+table {
+    border-color: #ccc;
+}
